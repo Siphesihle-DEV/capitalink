@@ -1,0 +1,3 @@
+{ "name": "capitalink-contracts", "private": true,
+  "scripts": { "compile": "hardhat compile", "test": "hardhat test", "deploy:fuji": "hardhat run scripts/deploy.ts --network fuji" },
+  "devDependencies": { "@openzeppelin/contracts": "^5.0.2", "@nomicfoundation/hardhat-toolbox": "^5.0.0", "hardhat": "^2.22.10", "dotenv": "^16.4.5", "typescript": "^5.5.4", "ts-node": "^10.9.2" } }

@@ -1,0 +1,9 @@
+.env
+node_modules
+*.db
+uploads
+data
+dist
+artifacts
+cache
+__pycache__
